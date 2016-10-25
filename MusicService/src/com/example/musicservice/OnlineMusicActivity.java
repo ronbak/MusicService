@@ -124,7 +124,7 @@ public class OnlineMusicActivity extends Activity implements OnClickListener,OnS
 		song2=new Song("Lights","Elli Goulding","http://mp3.haoduoge.com/s/2016-09-12/1473684651.mp3");
 		song3=new Song("Red Lights","Tiesto","http://192.168.0.101:8080/Json1/RedLights.mp3");
 		song4=new Song("Summer On You","Sam feldt","http://192.168.0.101:8080/Json1/Summer On You.mp3");
-		song5=new Song("The Ocean","Mike Posion","http://192.168.0.101:8080/Json1/TheOcean.mp3");
+		song5=new Song("The Ocean","Mike Poison","http://192.168.0.101:8080/Json1/TheOcean.mp3");
 		song6=new Song("Middle","DJ Sanke","http://192.168.0.101:8080/Json1/Middle.mp3");
 		song7=new Song("What We Started","Don Diablo & Steve Aoki","http://192.168.0.101:8080/Json1/WhatWeStarted.mp3");
 		song8=new Song("Never Leave","DVBBS","http://192.168.0.101:8080/Json1/Never Leave.mp3");
